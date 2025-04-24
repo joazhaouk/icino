@@ -1,0 +1,21 @@
+{
+    "name": "ICINOLAB",
+    "symbol": "ILAB",
+    "description": "A ICINO LAB stablecoin on Solana Devnet",
+    "image": "https://github.com/joazhaouk/icino/blob/main/LOGO.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Stablecoin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/joazhaouk/icino/blob/main/LOGO.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
