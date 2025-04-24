@@ -1,8 +1,8 @@
 {
-    "name": "ICINOLAB",
+    "name": "ILAB",
     "symbol": "ILAB",
     "description": "A ICINO LAB stablecoin on Solana Devnet",
     "uri": "https://raw.githubusercontent.com/joazhaouk/icino/blob/main/metadata.json",
-    "image": "https://github.com/joazhaouk/icino/blob/main/LOGO.png",
+    "image": "https://raw.githubusercontent.com/joazhaouk/icino/blob/main/LOGO.png",
     "website": "https://www.icinocapital.org"
   }
